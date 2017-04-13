@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">DesarrolloAplicaciondos</string>
+    <string name="nombretximp">Nombres </string>
+    <string name="apellidostximp">Apellidos</string>
+    <string name="textopickerfecha">Fecha de Nacimiento</string>
+    <string name="telefonotximp">Telefono</string>
+    <string name="emailtximp">Email</string>
+    <string name="descripciontximp">Descripción Contacto</string>
+    <string name="textosiguiente">Siguiente</string>
+    <string name="tvnombreaplicacion">Unlimited-imagination.com</string>
+    <string name="tvdescripcionaplicacion">Bienvenido! por favor ingrese sus datos</string>
+    <string name="putnombres">Inombre</string>
+    <string name="putapellido">Iapellido</string>
+    <string name="putfecha">Ifecha</string>
+    <string name="puttelefono">Itelefono</string>
+    <string name="putemail">Iemail</string>
+    <string name="putdescripcion">Idescripcion</string>
+    <string name="tvconfirmarDatos">Confirmar Datos</string>
+    <string name="buttonEditarDatos">Editar Datos</string>
+    <string name="textonombres">Nombres:</string>
+    <string name="textoapellidos">Apellidos:</string>
+    <string name="textofechanacimiento">Fecha de nacimiento:</string>
+    <string name="textotelefono">Telefono:</string>
+    <string name="textoemail">Email:</string>
+    <string name="textodescripcion">Descripción:</string>
+
+
+</resources>

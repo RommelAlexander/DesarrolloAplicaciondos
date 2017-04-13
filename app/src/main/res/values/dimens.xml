@@ -1,0 +1,12 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="dimension_boton">330dp</dimen>
+    <dimen name="dimension_boton2">50dp</dimen>
+    <dimen name="texttitulo">25dp</dimen>
+    <dimen name="textdescripcion">18dp</dimen>
+    <dimen name="textConfirmarDatos">20dp</dimen>
+    <dimen name="tvfecha">40dp</dimen>
+    <dimen name="paddingLeft">10dp</dimen>
+</resources>
